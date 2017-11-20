@@ -1,2 +1,4 @@
 # ConfigData
 lucky-word="Irish", "Rabbit's Foot", "Serendipity"
+spring.application.name=lap-3-server
+spring.cloud.config.url=http://localhost:8001\
